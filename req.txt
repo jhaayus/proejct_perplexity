@@ -1,0 +1,5 @@
+# pip install requests
+pandas
+streamlit
+#pip install openai==0.28.1
+openpyxl
