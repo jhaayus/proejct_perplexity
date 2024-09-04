@@ -4,6 +4,10 @@
 ## Description
 This web application allows users to upload PDF files and receive responses based on the content of the PDF combined with a language model's understanding. The application leverages Langchain for document processing and Hugging Face's language models to generate insightful responses.
 
+## Model is deployed 
+Use this link : https://huggingface.co/spaces/jhaayus/Base_AI_project_01 
+Deployed on Hugginface - space. 
+
 ## Features
 - **PDF Upload:** Users can upload PDF files for analysis.
 - **Content Analysis:** The application extracts text from the PDF and processes it using Langchain.
