@@ -18,8 +18,7 @@ Deployed on Hugginface - space.
 - **Langchain:** A framework for building applications with language models. It facilitates the extraction and processing of text data from documents.
 - **Hugging Face Transformers:** A library providing state-of-the-art machine learning models for natural language processing tasks. It is used here to generate responses based on the processed text.
 - **Python:** The primary programming language used for developing the backend of the application.
-- **Flask/Django (or your chosen framework):** The web framework used to build the application interface and handle requests.
-- **HTML/CSS/JavaScript:** Technologies used to create the front-end interface of the application.
+- **Strealit:** The web framework used to build the application interface and handle requests and Technologies used to create the front-end interface of the application.
 
 ## Installation
 1. **Clone the repository:**
